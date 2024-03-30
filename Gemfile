@@ -51,11 +51,14 @@ gem 'time_date_helpers'
 gem 'carrierwave'
 gem 'will_paginate'
 
-# Front-End Gems
+# React Gems
+
+
+
+
+# Other Front-End Gems
 gem 'vuejs-rails'
-
 gem 'turbolinks'
-
 gem 'coffee-script', '~> 2.4', '>= 2.4.1'
 
 group :development, :test do
